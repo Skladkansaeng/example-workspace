@@ -1,0 +1,11 @@
+{
+  "name": "example-workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Skladkansaeng/example-workspace",
+  "author": "SKladkansaeng <44721475+Skladkansaeng@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
